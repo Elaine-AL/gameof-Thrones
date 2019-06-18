@@ -17,6 +17,7 @@ This is an analysis of characters for game of thrones using **Power BI** for vis
 * Most of the characters were male taking 82% of the total.
 * The introduction of characters based on chapters was occassional but kept reducing to avoid overpopulating the series with too many people.
 * Most deaths occurred between chapters 30 to 50 when there were many people fighting for the same Iron Throne.
+
 _Use the name of characters and Book of death as slicers to find information about each character_
 
 ![Character-deaths](https://github.com/Elaine-AL/gameof-Thrones/blob/master/Capture%202.PNG)
@@ -25,6 +26,7 @@ _Use the name of characters and Book of death as slicers to find information abo
 * According to predictions, most deaths would occurr in 299 which is true as seen in the above character deaths analysis.
 * Most characters were born between 230 and 290.
 * Most characters are aged between 15 and 24. This is weird as i had expected them to be between 24 to 30.
+
 _use the name of characters as a slicer to find all the information about the characters including their nobility status, the parents, heirs and so forth_
 
 ![Characterpredictions](https://github.com/Elaine-AL/gameof-Thrones/blob/master/Capture%20%203.PNG)
